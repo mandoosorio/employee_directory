@@ -17,6 +17,6 @@ This application will use react to render componnents and use local storage to s
 https://mandoosorio.github.io/employee_directory/
 
 
-![demo image](directory_image.png)
+![demo image](directory.png)
 ![Profile Image](https://avatars2.githubusercontent.com/u/65792333?v=4/to/img.png)
 
